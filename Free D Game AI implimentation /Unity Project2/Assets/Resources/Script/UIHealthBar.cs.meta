@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f509473251fc68d4fb9aa1c11b6a194b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - firstDamageStage: {fileID: 2800000, guid: 94b5f1675fa484aeabaf33c116058e00, type: 3}
+  - secondDamageStage: {fileID: 2800000, guid: 58710eed253d3429d8ddea7c11ee84fc, type: 3}
+  - thirdDamageStage: {fileID: 2800000, guid: 5ff643be5a3114ec7ab892db3fe52650, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
